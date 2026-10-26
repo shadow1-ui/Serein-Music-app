@@ -1,4 +1,4 @@
-![Serein. Music wherever you want.](assets/serein-banner.svg)
+![Serein. Music wherever you want.](assets/serein-banner-v2.png)
 
 <div align="center">
 
@@ -14,12 +14,12 @@
 
 ## Завантажити Serein 1.9.64
 
-| Windows | Android |
-| --- | --- |
-| **[↓ Serein-Setup-1.9.64.exe](https://github.com/shadow1-ui/Serein-Music-app/releases/download/v1.9.64/Serein-Setup-1.9.64.exe)** | **[↓ Serein-Android-1.9.64.apk](https://github.com/shadow1-ui/Serein-Music-app/releases/download/v1.9.64/Serein-Android-1.9.64.apk)** |
-| Windows 10 / 11 · інсталятор .exe | Android 7.0+ · застосунок .apk |
+<p align="center">
+<a href="https://github.com/shadow1-ui/Serein-Music-app/releases/download/v1.9.64/Serein-Setup-1.9.64.exe"><img src="assets/download-windows-uk.png" width="420" alt="Завантажити для Windows · Windows 10 / 11"></a>
+<a href="https://github.com/shadow1-ui/Serein-Music-app/releases/download/v1.9.64/Serein-Android-1.9.64.apk"><img src="assets/download-android-uk.png" width="420" alt="Завантажити для Android · Android 7.0+"></a>
+</p>
 
-![Serein desktop interface](assets/serein-desktop.webp)
+![Serein desktop interface](assets/serein-desktop-uk.webp)
 
 ## Твоя музика — поруч
 
@@ -32,7 +32,7 @@
 <details>
 <summary>Obsidian</summary>
 
-![Obsidian theme](assets/serein-obsidian.webp)
+![Obsidian theme](assets/serein-obsidian-uk.webp)
 
 </details>
 
@@ -40,7 +40,7 @@
 
 Свої файли доступні без інтернету. Онлайн-відтворення та імпорт потребують інтернету й доступності YouTube. Вхід в обліковий запис дозволяє синхронізувати медіатеку між пристроями.
 
-<p align="center"><img src="assets/serein-mobile.webp" width="300" alt="Serein on Android"></p>
+<p align="center"><img src="assets/serein-mobile-uk.webp" width="300" alt="Serein on Android"></p>
 
 ## І ще трохи улюбленого
 
@@ -49,8 +49,6 @@
 ## Оновлення з PULSE
 
 Serein — нове ім’я того самого плеєра. **Встановлюй поверх, без видалення застосунку.** Бібліотека, плейлісти, улюблене й налаштування використовують попередні сховища. Перед оновленням радимо резервну копію медіатеки.
-
-Android 1.9.64 має внутрішній код оновлення 83, попередні пакет і сертифікат. Це дозволяє оновитися також із приватних тестових версій 1.9.65–1.9.69.
 
 ## Маєш ідею або знайшов помилку?
 

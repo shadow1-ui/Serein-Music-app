@@ -1,4 +1,4 @@
-![Serein. Music wherever you want.](assets/serein-banner.svg)
+![Serein. Music wherever you want.](assets/serein-banner-v2.png)
 
 <div align="center">
 
@@ -14,12 +14,12 @@ Your files. Your playlists. Your rhythm. One space for everything you love to he
 
 ## Download Serein 1.9.64
 
-| Windows | Android |
-| --- | --- |
-| **[↓ Serein-Setup-1.9.64.exe](https://github.com/shadow1-ui/Serein-Music-app/releases/download/v1.9.64/Serein-Setup-1.9.64.exe)** | **[↓ Serein-Android-1.9.64.apk](https://github.com/shadow1-ui/Serein-Music-app/releases/download/v1.9.64/Serein-Android-1.9.64.apk)** |
-| Windows 10 / 11 · .exe installer | Android 7.0+ · .apk app |
+<p align="center">
+<a href="https://github.com/shadow1-ui/Serein-Music-app/releases/download/v1.9.64/Serein-Setup-1.9.64.exe"><img src="assets/download-windows-en.png" width="420" alt="Download for Windows · Windows 10 / 11"></a>
+<a href="https://github.com/shadow1-ui/Serein-Music-app/releases/download/v1.9.64/Serein-Android-1.9.64.apk"><img src="assets/download-android-en.png" width="420" alt="Download for Android · Android 7.0+"></a>
+</p>
 
-![Serein desktop interface](assets/serein-desktop.webp)
+![Serein desktop interface](assets/serein-desktop-en.webp)
 
 ## Your music, together
 
@@ -32,7 +32,7 @@ Serein brings a separate black-and-white theme without desaturating cover art. O
 <details>
 <summary>Obsidian</summary>
 
-![Obsidian theme](assets/serein-obsidian.webp)
+![Obsidian theme](assets/serein-obsidian-en.webp)
 
 </details>
 
@@ -40,7 +40,7 @@ Serein brings a separate black-and-white theme without desaturating cover art. O
 
 Local files work offline. Online playback and imports require internet access and availability of YouTube. Sign in for library sync between devices.
 
-<p align="center"><img src="assets/serein-mobile.webp" width="300" alt="Serein on Android"></p>
+<p align="center"><img src="assets/serein-mobile-en.webp" width="300" alt="Serein on Android"></p>
 
 ## More to listen with
 
@@ -49,8 +49,6 @@ Lyrics · sleep timer · listening stats · mixes · Windows mini player and tra
 ## Updating from PULSE
 
 Serein is the new name of the same player. **Install over the existing app, without uninstalling.** The library, playlists, favorites and settings use their existing storage. Back up your library before updating.
-
-Android 1.9.64 uses internal update code 83 and the existing package and signing certificate, so it can also update private test builds numbered 1.9.65–1.9.69.
 
 ## Need a hand?
 

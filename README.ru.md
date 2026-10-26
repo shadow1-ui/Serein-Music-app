@@ -8,7 +8,7 @@
 
 Твои файлы. Твои плейлисты. Твой ритм. Всё, что любишь слушать, — в одном месте.
 
-**[↗ Посмотреть сайт](https://serein.pulse-apps.workers.dev/?lang=ru)** · [Открыть веб-плеер](https://music.pulse-apps.workers.dev) · [Все изменения в 1.9.64](https://github.com/shadow1-ui/PULSE-Music-app/releases/tag/v1.9.64)
+**[↗ Посмотреть сайт](https://serein.pulse-apps.workers.dev/?lang=ru)** · [Открыть веб-плеер](https://music.pulse-apps.workers.dev) · [Все изменения в 1.9.64](https://github.com/shadow1-ui/Serein-Music-app/releases/tag/v1.9.64)
 
 </div>
 
@@ -16,7 +16,7 @@
 
 | Windows | Android |
 | --- | --- |
-| **[↓ Serein-Setup-1.9.64.exe](https://github.com/shadow1-ui/PULSE-Music-app/releases/download/v1.9.64/Serein-Setup-1.9.64.exe)** | **[↓ Serein-Android-1.9.64.apk](https://github.com/shadow1-ui/PULSE-Music-app/releases/download/v1.9.64/Serein-Android-1.9.64.apk)** |
+| **[↓ Serein-Setup-1.9.64.exe](https://github.com/shadow1-ui/Serein-Music-app/releases/download/v1.9.64/Serein-Setup-1.9.64.exe)** | **[↓ Serein-Android-1.9.64.apk](https://github.com/shadow1-ui/Serein-Music-app/releases/download/v1.9.64/Serein-Android-1.9.64.apk)** |
 | Windows 10 / 11 · установщик .exe | Android 7.0+ · приложение .apk |
 
 ![Serein desktop interface](assets/serein-desktop.webp)
@@ -56,7 +56,7 @@ Serein — новое имя того же плеера. **Устанавлив�
 
 Открой Issue и укажи версию приложения, устройство и шаги для повторения проблемы. Это независимый проект; обратная связь помогает ему становиться лучше.
 
-[GitHub Issues ↗](https://github.com/shadow1-ui/PULSE-Music-app/issues) · [Releases ↗](https://github.com/shadow1-ui/PULSE-Music-app/releases)
+[GitHub Issues ↗](https://github.com/shadow1-ui/Serein-Music-app/issues) · [Releases ↗](https://github.com/shadow1-ui/Serein-Music-app/releases)
 
 ---
 

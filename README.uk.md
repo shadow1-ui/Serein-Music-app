@@ -8,7 +8,7 @@
 
 Твої файли. Твої плейлісти. Твій ритм. Усе, що любиш слухати, — в одному місці.
 
-**[↗ Подивитися сайт](https://serein.pulse-apps.workers.dev/?lang=uk)** · [Відкрити вебплеєр](https://music.pulse-apps.workers.dev) · [Усі зміни в 1.9.64](https://github.com/shadow1-ui/PULSE-Music-app/releases/tag/v1.9.64)
+**[↗ Подивитися сайт](https://serein.pulse-apps.workers.dev/?lang=uk)** · [Відкрити вебплеєр](https://music.pulse-apps.workers.dev) · [Усі зміни в 1.9.64](https://github.com/shadow1-ui/Serein-Music-app/releases/tag/v1.9.64)
 
 </div>
 
@@ -16,7 +16,7 @@
 
 | Windows | Android |
 | --- | --- |
-| **[↓ Serein-Setup-1.9.64.exe](https://github.com/shadow1-ui/PULSE-Music-app/releases/download/v1.9.64/Serein-Setup-1.9.64.exe)** | **[↓ Serein-Android-1.9.64.apk](https://github.com/shadow1-ui/PULSE-Music-app/releases/download/v1.9.64/Serein-Android-1.9.64.apk)** |
+| **[↓ Serein-Setup-1.9.64.exe](https://github.com/shadow1-ui/Serein-Music-app/releases/download/v1.9.64/Serein-Setup-1.9.64.exe)** | **[↓ Serein-Android-1.9.64.apk](https://github.com/shadow1-ui/Serein-Music-app/releases/download/v1.9.64/Serein-Android-1.9.64.apk)** |
 | Windows 10 / 11 · інсталятор .exe | Android 7.0+ · застосунок .apk |
 
 ![Serein desktop interface](assets/serein-desktop.webp)
@@ -56,7 +56,7 @@ Android 1.9.64 має внутрішній код оновлення 83, поп�
 
 Відкрий Issue та вкажи версію застосунку, пристрій і кроки для повторення проблеми. Це незалежний проєкт; зворотний зв’язок допомагає йому ставати кращим.
 
-[GitHub Issues ↗](https://github.com/shadow1-ui/PULSE-Music-app/issues) · [Releases ↗](https://github.com/shadow1-ui/PULSE-Music-app/releases)
+[GitHub Issues ↗](https://github.com/shadow1-ui/Serein-Music-app/issues) · [Releases ↗](https://github.com/shadow1-ui/Serein-Music-app/releases)
 
 ---
 

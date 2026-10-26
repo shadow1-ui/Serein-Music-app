@@ -8,7 +8,7 @@ English · [Українська](README.uk.md) · [Русский](README.ru.md
 
 Your files. Your playlists. Your rhythm. One space for everything you love to hear.
 
-**[↗ Explore the website](https://serein.pulse-apps.workers.dev/?lang=en)** · [Open web player](https://music.pulse-apps.workers.dev) · [All changes in 1.9.64](https://github.com/shadow1-ui/PULSE-Music-app/releases/tag/v1.9.64)
+**[↗ Explore the website](https://serein.pulse-apps.workers.dev/?lang=en)** · [Open web player](https://music.pulse-apps.workers.dev) · [All changes in 1.9.64](https://github.com/shadow1-ui/Serein-Music-app/releases/tag/v1.9.64)
 
 </div>
 
@@ -16,7 +16,7 @@ Your files. Your playlists. Your rhythm. One space for everything you love to he
 
 | Windows | Android |
 | --- | --- |
-| **[↓ Serein-Setup-1.9.64.exe](https://github.com/shadow1-ui/PULSE-Music-app/releases/download/v1.9.64/Serein-Setup-1.9.64.exe)** | **[↓ Serein-Android-1.9.64.apk](https://github.com/shadow1-ui/PULSE-Music-app/releases/download/v1.9.64/Serein-Android-1.9.64.apk)** |
+| **[↓ Serein-Setup-1.9.64.exe](https://github.com/shadow1-ui/Serein-Music-app/releases/download/v1.9.64/Serein-Setup-1.9.64.exe)** | **[↓ Serein-Android-1.9.64.apk](https://github.com/shadow1-ui/Serein-Music-app/releases/download/v1.9.64/Serein-Android-1.9.64.apk)** |
 | Windows 10 / 11 · .exe installer | Android 7.0+ · .apk app |
 
 ![Serein desktop interface](assets/serein-desktop.webp)
@@ -56,7 +56,7 @@ Android 1.9.64 uses internal update code 83 and the existing package and signing
 
 Found a problem or have an idea? Open an issue with your app version, device and steps to reproduce. This is an independent project; your feedback helps it grow.
 
-[GitHub Issues ↗](https://github.com/shadow1-ui/PULSE-Music-app/issues) · [Releases ↗](https://github.com/shadow1-ui/PULSE-Music-app/releases)
+[GitHub Issues ↗](https://github.com/shadow1-ui/Serein-Music-app/issues) · [Releases ↗](https://github.com/shadow1-ui/Serein-Music-app/releases)
 
 ---
 

@@ -8,15 +8,15 @@
 
 Твої файли. Твої плейлісти. Твій ритм. Усе, що любиш слухати, — в одному місці.
 
-**[↗ Подивитися сайт](https://serein.pulse-apps.workers.dev/?lang=uk)** · [Відкрити вебплеєр](https://music.pulse-apps.workers.dev) · [Усі зміни в 1.9.66](https://github.com/shadow1-ui/Serein-Music-app/releases/tag/v1.9.66)
+**[↗ Подивитися сайт](https://serein.pulse-apps.workers.dev/?lang=uk)** · [Відкрити вебплеєр](https://music.pulse-apps.workers.dev) · [Усі зміни в 1.9.67](https://github.com/shadow1-ui/Serein-Music-app/releases/tag/v1.9.67)
 
 </div>
 
-## Завантажити Serein 1.9.66
+## Завантажити Serein 1.9.67
 
 <p align="center">
-<a href="https://github.com/shadow1-ui/Serein-Music-app/releases/download/v1.9.66/Serein-Setup-1.9.66.exe"><img src="assets/download-windows-uk.png" width="420" alt="Завантажити для Windows · Windows 10 / 11"></a>
-<a href="https://github.com/shadow1-ui/Serein-Music-app/releases/download/v1.9.66/Serein-Android-1.9.66.apk"><img src="assets/download-android-uk.png" width="420" alt="Завантажити для Android · Android 7.0+"></a>
+<a href="https://github.com/shadow1-ui/Serein-Music-app/releases/download/v1.9.67/Serein-Setup-1.9.67.exe"><img src="assets/download-windows-uk.png" width="420" alt="Завантажити для Windows · Windows 10 / 11"></a>
+<a href="https://github.com/shadow1-ui/Serein-Music-app/releases/download/v1.9.67/Serein-Android-1.9.67.apk"><img src="assets/download-android-uk.png" width="420" alt="Завантажити для Android · Android 7.0+"></a>
 </p>
 
 ![Serein desktop interface](assets/serein-desktop-uk.webp)
